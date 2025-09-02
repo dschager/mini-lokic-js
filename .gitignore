@@ -1,0 +1,7 @@
+dist
+node_modules
+src/config/local-*.ts
+.env
+.vscode
+.idea
+.history
