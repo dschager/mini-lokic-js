@@ -4,4 +4,5 @@ src/config/local-*.ts
 .env
 .vscode
 .idea
-.history
+.historysrc/config/google/token.json
+src/config/google/credentials.json
